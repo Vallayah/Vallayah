@@ -1,6 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Aleksandra Filipczak
 ============================================================================================================================================
-![](https://i.ibb.co/KchX6nYx/olagit.png)
+![olagit](https://github.com/user-attachments/assets/3275cff1-4c87-42de-a49d-ebb9edbbbf87)
 
 Web Developer
 -------------
