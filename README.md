@@ -9,7 +9,7 @@ I've traded the thrilling world of sales and banking (🤣) for being a master o
 
 * 🌍  I'm based in Lodz, Poland
 * 😄 Pronouns: she/her
-* 🖥️  See my portfolio at [Learning Portfolio](http://www.freecodecamp.org/Valaya)
+* 🖥️  See my portfolio at [Learning Portfolio](https://codepen.io/Vallayah)
 * ✉️  You can contact me at [abfilipczak@gmail.com](mailto:abfilipczak@gmail.com)
 * 🧠  I'm learning JavaScript
 * 🤝  I'm open to collaborating on any project where I can contribute and learn more about full-stack development
