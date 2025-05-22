@@ -5,7 +5,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer
 -------------
 
-I've traded the thrilling world of sales and banking (🤣) for being a master of code 👩🏻‍💻. My current quest involves convincing the front-end and back-end to become best friends, which, surprisingly, is far more exciting than debugging spreadsheets! I'm a beginner full-stack developer with a particular passion for Python programming. My current academic home is [@freeCodeCamp](https://github.com/freeCodeCamp), where I have, to date, completed  the [Responsive Web Design certification](https://www.freecodecamp.org/certification/Valaya/responsive-web-design). Right now, I'm diving into JS and building out my portfolio.
+I've traded the thrilling world of sales and banking 🤣 for being a master of code 👩🏻‍💻. My current quest involves convincing the front-end and back-end to become best friends, which, surprisingly, is far more exciting than debugging spreadsheets! I'm a beginner full-stack developer with a particular passion for Python programming. My current academic home is [@freeCodeCamp](https://github.com/freeCodeCamp), where I have, to date, completed  the [Responsive Web Design certification](https://www.freecodecamp.org/certification/Valaya/responsive-web-design). Right now, I'm diving into JS and building out my portfolio.
 
 * 🌍  I'm based in Lodz, Poland
 * 😄 Pronouns: she/her
